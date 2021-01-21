@@ -4,9 +4,11 @@
 
 
 
-<h1 align="center">Hi 👋, I'm ANSHIKA SINGH</h1>
+<h1 align="center">Hi 👋</h1>
 
-
+<div align="center">
+<img src="https://github.com/singhanshika311/singhanshika311/blob/main/anshu.gif" width=800 height=110>
+ </div>
 <img src="https://github.com/singhanshika311/singhanshika311/blob/main/20200903_221913.jpg" width=200 height=300 align="left">
 
 <div align="center">
