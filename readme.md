@@ -31,6 +31,11 @@
 
 </div>
 
-Buy me a Coffee (I will too buy you a coffee one day)
+Buy me a Coffee (I will too buy you a coffee one day)☕☕☕☕☕☕
+
+<div align="center">
+<img src="https://github.com/singhanshika311/singhanshika311/blob/main/Frustrated_programmer.gif" width=150 height=150>
+ </div>
+
 
 ### Ask me about my experience in Web Development Phase
