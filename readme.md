@@ -5,7 +5,12 @@
 
 
 <h1 align="center">Hi 👋, I'm ANSHIKA SINGH</h1>
-<h3 align="center">Full Stack Web Developer 👨‍💻
+
+
+<img src="https://github.com/singhanshika311/singhanshika311/blob/main/20200903_221913.jpg" width=200 height=300 align="center">
+
+
+<h3 align="center">Full Stack Web Developer 👨‍💻</h3>
 
 
 - 🔭 I’m currently working on **PSIT**
