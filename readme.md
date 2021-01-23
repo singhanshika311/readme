@@ -1,6 +1,6 @@
 
 
-## I am an experienced web developer
+## I am an btech student  
 
 
 
@@ -15,9 +15,9 @@
 
 <h3 align="center">Full Stack Web Developer 👨‍💻</h3>
 
- 🔭 I’m currently working on **PSIT**
+ 🔭 I’m currently studying in **PSIT**
 
-🌱 I’m currently learning **Django, PHP**
+🌱 I’m currently learning **Python, PHP**
 
 👯 I’m looking to collaborate on [Web Development](https://github.com/singhanshika311)
 
@@ -38,4 +38,4 @@ Buy me a Coffee (I will too buy you a coffee one day)☕☕☕☕☕☕
  </div>
 
 
-### Ask me about my experience in Web Development Phase
+### Ask me about my projects in Web Development Phase
